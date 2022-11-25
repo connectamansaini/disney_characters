@@ -1,4 +1,3 @@
-// ignore_for_file: false
 part of 'characters_bloc.dart';
 
 enum Status { initial, loading, failure, success }
